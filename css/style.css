@@ -1,0 +1,18 @@
+/* Select Font From Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+
+/* Set Font To The Our Page */
+*{
+    font-family: 'Heebo', sans-serif;
+}
+
+
+/* Clock Style Fro JavaScript File */
+.clock{
+    letter-spacing: 4px;
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
